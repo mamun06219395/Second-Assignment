@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+	background: url(../img/7.jpg);
+	background-size: cover;
+	color: white;
+}
+.container{
+	width: 400px;
+	margin: 1% 1% auto;
+}
+.login-section{
+	background-color:;
+	padding: 20px;
+}
+
+.login-section h3{
+	text-align: left;
+	padding: 0px 0px;
+	front-size:10px;
+}
+.form-control{
+	width: 100%
+	height:10px;
+	padding: 0 10px;
+	 border-radius: 2px;
+	 border: 1px solid black;
+	 margin-bottom: 10px;
+}
+.login-btn{
+	background-color: #880000;
+	padding: 2px 12px;
+	border: 1px solid #880000;
+	color:#fff;
+	transition: 0.6s;
+}
+.login-btn:hover{
+	cursor: pointer;
+	background-color:#fff;
+	color:#880000;
+	border: #88000;  
+	box-shadow:4px 5px 6px #88000;
+
+}
+
+.login-section a{
+	text-decoration:none;
+	color: #fff;
+
+}
+.login-section a:hover{
+	color: #880000;
+
+}
